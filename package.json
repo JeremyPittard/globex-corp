@@ -12,9 +12,17 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
+    "@astrojs/markdoc": "^0.8.3",
+    "@astrojs/react": "^3.0.9",
     "@fontsource-variable/roboto-serif": "^5.0.9",
     "@fontsource/atkinson-hyperlegible": "^5.0.18",
+    "@keystatic/astro": "^3.0.2",
+    "@keystatic/core": "^0.3.8",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
     "astro": "^4.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "^5.3.3"
   }
 }
