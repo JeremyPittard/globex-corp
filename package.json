@@ -1,7 +1,8 @@
 {
-  "name": "globex-horizontal",
+  "name": "globex",
   "type": "module",
   "version": "0.0.1",
+  "author": "Jeremy Pittard",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
