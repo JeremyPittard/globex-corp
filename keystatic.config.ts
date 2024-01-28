@@ -5,7 +5,7 @@ export default config({
   storage: {
     kind: "github",
     repo: {
-      owner: "jeremypittad",
+      owner: "jeremypittard",
       name: "globex-corp",
     },
   },
